@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
-@import url('http://fonts.cdnfonts.com/css/mistral');
+@import url('https://fonts.googleapis.com/css2?family=Corinthia&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 body{
     margin-top: 20px;
     overflow-x: hidden;
@@ -850,7 +851,7 @@ box-sizing: border-box;
 .contry_header_1 h3{
     color: red;
     font-size: 30px;
-    font-family: Mistral;
+    font-family: 'Lobster', cursive;
 }
 .contry_header_1 h1{
     font-size: 30px;
@@ -919,7 +920,7 @@ span_p{
     padding: 10px;
 }
 .contry_line_1{
-    font-family: Mistral;
+    font-family: 'Corinthia', cursive;
     position: absolute;
     top: -10px;
     left: 1200px;
@@ -930,7 +931,7 @@ span_p{
     left: -85px;
 }
 .contry_line_2{
-    font-family: Mistral;
+    font-family: 'Corinthia', cursive;
     position: absolute;
     top: 320px;
     left: -5px;
@@ -941,7 +942,7 @@ span_p{
     left: 90px;
 }
 .contry_line_3{
-    font-family: Mistral;
+    font-family: 'Corinthia', cursive;
     position: absolute;
     top: 650px;
     left: 1280px;
@@ -961,7 +962,7 @@ span_p{
     left: 10px;
 }
 .exclusove_slovenia p{
-    font-family: Mistral;
+    font-family: 'Corinthia', cursive;
     font-size: 20px;
     position: absolute;
     left: 30px;
@@ -1006,10 +1007,10 @@ span_p{
     z-index: 2;
 }
 .exclusive_img_3 p{
-    font-family: Mistral;
-    font-size: 20px;
+    font-family: 'Corinthia', cursive;
+    font-size: 30px;
     position: absolute;
-    top: 50px;
+    top: 40px;
     left: 30px;
     rotate: -30deg;
     color: white;
@@ -1310,13 +1311,13 @@ span_h1{
     left: -90px;
 }
 .conditions_massage p{
-    font-size: 17px;
-    font-family: Mistral;
+    font-size: 23px;
+    font-family: 'Corinthia', cursive;
     color: white;
     rotate: -20deg;
     position: absolute;
     top: 50px;
-    left: 15px;
+    left: 25px;
 }
 .conditions_1_text{
     font-family: Montserrat;
