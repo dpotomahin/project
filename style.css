@@ -664,7 +664,7 @@ box-sizing: border-box;
     padding: 30px 200px 0 80px;
     margin-top: 100px;
     position: relative;
-    width: 1440px;
+    width: 1400px;
     height: 255px;
     background-color: red;
 }
@@ -715,7 +715,7 @@ box-sizing: border-box;
     border: 1px solid white;
     position: absolute;
     top: 230px;
-    left: 690px;
+    left: 680px;
 }
 .turist input:checked::before{
     border: none;
@@ -741,7 +741,7 @@ box-sizing: border-box;
     border: 1px solid white;
     position: absolute;
     top: 230px;
-    left: 850px;
+    left: 830px;
 }
 .turagent input:checked::before{
     border: none;
@@ -754,6 +754,7 @@ box-sizing: border-box;
     z-index: 1;
 }
 .our_plus{
+    width: 1400px;
     padding-top: 30px;
     height: 850px;
     position: relative;
@@ -809,7 +810,7 @@ box-sizing: border-box;
     overflow: hidden;
     padding: 120px 0 0 250px;
     display: flex;
-    width: 1365px;
+    width: 1400px;
     height: 450px;   
     background: url(./img/Rovinj-15\ 1.png);
 }
@@ -1211,11 +1212,14 @@ span_h1{
     top: 20px;
 }
 .pride_content_2{ 
-    background: url(./img/1615470437_162\ 3\ —\ копия.png);
+    background: url(./img/1615470437_162\ 3\ —\ копия.png);
+}
+.pride_content_2_gradient{
     padding: 80px;
     justify-content: center;
     align-items: center;
     display: flex;
+    background: linear-gradient(180deg, #F8F8F8 17.5%, rgba(248, 248, 248, 0.1) 100%);
 }
 .pride_content_1{
     justify-content: space-evenly;
@@ -1247,6 +1251,8 @@ span_h1{
     border-top: 4px solid red;
 }
 .conditions_2_content{
+    padding: 40px;
+    padding-top: 10px;
     align-items: center;
     justify-content: center;
     display: flex;
